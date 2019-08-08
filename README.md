@@ -1,6 +1,9 @@
+## React-Form is a basic form without a backend. Built with React.JS and Material-UI
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
