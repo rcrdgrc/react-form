@@ -22,7 +22,7 @@ export class Success extends Component {
             <MuiThemeProvider>
                 <React.Fragment>
                     <AppBar title="Success" /> 
-                    <h1>Thank You ScanData!!!</h1>
+                    <h1>Thank You!!!</h1>
                 </React.Fragment>
             </MuiThemeProvider>
         );
