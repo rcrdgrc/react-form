@@ -1,5 +1,6 @@
-## This is a basic form without a backend. Built with React.JS and Material-UI
+## React-Form
 
+This is a basic form without a backend. Built with React.JS and Material-UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
